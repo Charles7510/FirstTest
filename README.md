@@ -1,2 +1,2 @@
 # FirstTest
-This is my first trail in Github
+This is my first trial in Github
